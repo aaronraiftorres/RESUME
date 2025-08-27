@@ -7,7 +7,7 @@ Responsive one-page portfolio with minimal JS and clean sections. 🚀
 - Files: `index.html`, `style.css`, `mediaqueries.css`, `script.js`, `assets/`
 
 ## ▶️ Run
-- Open `index.html` or serve with Live Server / `python -m http.server`
+- Open https://resume-qxd7.vercel.app/
 
 ## 🛠️ Customize
 - Update text/links in `index.html`
