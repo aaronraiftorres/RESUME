@@ -1,18 +1,20 @@
-# 🎯 Portfolio OnePager
+# 🎯 Portfolio OnePager  
 
-Responsive one-page portfolio with minimal JS and clean sections. 🚀
+Responsive one-page portfolio with minimal JS and clean sections. 🚀  
 
-- Sections: Profile, About, Skills, Projects, Contact
-- Responsive: desktop nav + hamburger menu on mobile
-- Files: `index.html`, `style.css`, `mediaqueries.css`, `script.js`, `assets/`
+⚠️ **Note:** This project is currently about **60% complete** — still a work in progress! 🛠️  
 
-## ▶️ Run
-- Open https://resume-qxd7.vercel.app/
+- Sections: Profile, About, Skills, Projects, Contact  
+- Responsive: desktop nav + hamburger menu on mobile  
+- Files: `index.html`, `style.css`, `mediaqueries.css`, `script.js`, `assets/`  
 
-## 🛠️ Customize
-- Update text/links in `index.html`
-- Swap images and `RESUME-Aaron.pdf` in `assets/`
-- Adjust styles/breakpoints in CSS
+## ▶️ Run  
+- Open https://resume-qxd7.vercel.app/  
 
-## 🚀 Deploy
-- Host on GitHub Pages, Netlify, or Vercel 
+## 🛠️ Customize  
+- Update text/links in `index.html`  
+- Swap images and `RESUME-Aaron.pdf` in `assets/`  
+- Adjust styles/breakpoints in CSS  
+
+## 🚀 Deploy  
+- Host on GitHub Pages, Netlify, or Vercel  
