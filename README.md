@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image.jpg" alt="Fantasy Motors Website Banner" width="100%" />
+</p>
+
 # 🎯 Portfolio OnePager  
 
 Responsive one-page portfolio with minimal JS and clean sections. 🚀  
